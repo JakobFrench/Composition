@@ -1,0 +1,15 @@
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/Composition.deps.json
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/Composition.runtimeconfig.json
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/Composition.runtimeconfig.dev.json
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/Composition.dll
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/ref/Composition.dll
+/Users/jakeyfrench/Composition/bin/Debug/net5.0/Composition.pdb
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.csproj.AssemblyReference.cache
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.AssemblyInfoInputs.cache
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.AssemblyInfo.cs
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.csproj.CoreCompileInputs.cache
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.dll
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/ref/Composition.dll
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.pdb
+/Users/jakeyfrench/Composition/obj/Debug/net5.0/Composition.genruntimeconfig.cache
